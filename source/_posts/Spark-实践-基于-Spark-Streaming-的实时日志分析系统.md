@@ -1,5 +1,5 @@
 ---
-title: Spark 实践--基于 Spark Streaming 的实时日志分析系统
+title: Spark 实践——基于 Spark Streaming 的实时日志分析系统
 date: 2018-05-20 11:22:14
 categories: Spark实践
 tags: 
