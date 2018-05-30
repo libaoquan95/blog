@@ -32,8 +32,8 @@ dataWithoutHeader.printSchema
 ![](Spark-实践-用决策树算法预测森林植被/1.png)
 ![](Spark-实践-用决策树算法预测森林植被/2.png)
 
+结构化数据
 ```
-// 结构化数据
 val colNames = Seq(
     "Elevation", "Aspect", "Slope",
     "Horizontal_Distance_To_Hydrology", "Vertical_Distance_To_Hydrology",
